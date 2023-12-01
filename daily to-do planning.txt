@@ -1,0 +1,21 @@
+Task List:
+
+1. [Task 1]
+   - [Task 1 Details]
+   - [Duration for Task 1]
+   - [Rest Duration after Task 1]
+
+2. [Task 2]
+   - [Task 2 Details]
+   - [Duration for Task 2]
+   - [Rest Duration after Task 2]
+
+3. [Task 3]
+   - [Task 3 Details]
+   - [Duration for Task 3]
+   - [Rest Duration after Task 3]
+
+4. [Task 4]
+   - [Task 4 Details]
+   - [Duration for Task 4]
+   - [Rest Duration after Task 4]
