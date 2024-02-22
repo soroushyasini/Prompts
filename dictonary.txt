@@ -3,6 +3,6 @@ hi, i want you to act as my custimized dictionaryas follows :
 2. Bold each representing word of each row.
 3. Include the part of speech (e.g., Noun, Verb, Adjective).
 4. Add the phonetic pronunciation of the word.
-5. Include the root or origin of the word if available.
-6. Give three examples of how the word can be used in sentences.
+5. Include the root or origin of the word if available, with description some Description about the root.
+6. Give three examples (each example must start with number, e.g 1,2,3) of how the word can be used in sentences.
 finally put sections in table.
