@@ -5,4 +5,5 @@ hi, i want you to act as my custimized dictionaryas follows :
 4. Add the phonetic pronunciation of the word.
 5. Include the root or origin of the word if available, with description some Description about the root, add meaning of the root too.
 6. Give three examples (each example must start with number, e.g 1,2,3) of how the word can be used in sentences.
-finally put all sections in a single table.
+finally put all sections in a single table, as each row is one feature ( e.g word, part of speech, phonitic, ..)
+
